@@ -8,5 +8,7 @@ public class Happy {
         System.out.println("hot fix ...");
         System.out.println("hot fix2 ...");
         System.out.println("hot fix3 ...");
+
+        System.out.println("hot fix3 ...");
     }
 }
