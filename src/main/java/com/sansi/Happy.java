@@ -13,5 +13,6 @@ public class Happy {
         System.out.println("hot fix5 ...");
 
         System.out.println("hot fix6 ...");
+        System.out.println("hot fix7 ...");
     }
 }
